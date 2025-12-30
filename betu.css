@@ -15,8 +15,7 @@
 .background {
   position: absolute;
   inset: 0;
-  /* background-image: url("https://images.unsplash.com/photo-1677443181136-084257a0af67?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); */
-  background-image: url("kuku/bg.jpeg");
+  background-image: url("https://console.cloudinary.com/app/c-77c46ad64ca4280b076814dd32fe34/assets/media_library/search/asset/2d8242545e3d7f76fa36dd36b0203344/manage/summary?q=&view_mode=mosaic&context=manage");
   background-size: cover;
   background-position: center;
   filter: brightness(0.6);
